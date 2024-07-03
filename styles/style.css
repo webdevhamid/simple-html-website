@@ -9,7 +9,9 @@ div:first-child {
 div {
   background: tomato;
   margin-bottom: 10px;
+  text-align: center;
 }
+
 h1 {
   font-size: 40px;
   color: #fff;
